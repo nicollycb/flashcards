@@ -54,3 +54,8 @@ criaCartao(
     'Por meio da divisão do trabalho social estabelece relações de interdependência entre os indivíduos, o que fortalece a coesão social.'
 
 )
+criaCartao(
+    'Fisica I',
+    'Quais os principais conhecimentos envolvidos na robótica?',
+    'A robótica é um campo multidisciplinar que envolve conhecimentos de mecânica, eletrônica, hidráulica, pneumática e computação'
+)
