@@ -19,7 +19,7 @@ criaCartao(
     'As espécie vivas atualmente são idênticas as do passado'
 )
 criaCartao(
-    'Matemática 1',
+    'Matemática I',
     'Qual é o tempo máximo de contrato para um estagiário em uma empresa?',
     'Dois anos'
 )
