@@ -4,9 +4,9 @@ criaCartao (
     'O Python é uma linguagem de programação'
 )
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Portugues',
+    'Defina o conceito de reportagem',
+    'A reportagem é um gênero textual jornalístico. Ela apresenta informações detalhadas sobre determinado tema e pode estar acompanhada de fotos ou de outros recursos não verbais'
 )
 criaCartao(
     'Programação',
