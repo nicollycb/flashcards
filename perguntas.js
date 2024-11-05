@@ -1,7 +1,7 @@
 criaCartao (
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'História',
+    'Em relação às causas da Primeira Guerra Mundial é correto afirmar que:',
+    'A desigualdade de desenvolvimento das nações capitalistas europeias acentuou a rivalidade imperialista. A disputa colonial marcada por um nacionalismo agressivo e pela corrida armamentista expandiu os pontos de atrito entre as potências.'
 )
 criaCartao(
     'Portugues',
